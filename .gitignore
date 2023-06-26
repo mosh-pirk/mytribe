@@ -1,0 +1,12 @@
+# Service
+node_modules
+dist
+package-lock.json
+
+# UI
+ui/node_modules
+ui/public
+ui/package-lock.json
+
+# others
+.idea
